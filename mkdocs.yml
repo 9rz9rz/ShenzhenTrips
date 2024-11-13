@@ -1,6 +1,7 @@
 site_name: ShenZhenTrips
 nav:
-  - Home: index.md
+  - 主页: index.md
+  - 交通: transportation.md
 theme: 
   name: material
   language: zh
