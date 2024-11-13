@@ -1,7 +1,10 @@
 site_name: ShenZhenTrips
 nav:
-  - 主页: index.md
-  - 交通: transportation.md
+  - 欢迎访问: index.md
+  # - 交通: transportation.md
+  - 周边闲游: short_trips.md
+  - 半日游: half_day.md
+  - 一日游: one_day.md
 theme: 
   name: material
   language: zh
