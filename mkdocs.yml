@@ -3,8 +3,12 @@ nav:
   - 欢迎访问: index.md
   # - 交通: transportation.md
   - 周边闲游: short_trips.md
-  - 半日游: half_day.md
-  # - 一日游: one_day.md
+  - 分区景点: 
+    - 南山: nanshan.md
+    - 福田: futian.md
+    - 盐田: yantian.md
+    - 宝安: baoan.md
+    - 其他: other.md
 theme: 
   name: material
   language: zh
