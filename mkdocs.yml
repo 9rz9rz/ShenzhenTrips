@@ -1,21 +1,20 @@
 site_name: ShenZhenTrips
 nav:
   - 欢迎访问: index.md
-  # - 交通: transportation.md
-  - 周边闲游: short_trips.md
-  - 分区景点: 
-    - 南山: nanshan.md
-    - 福田: futian.md
-    - 盐田: yantian.md
-    - 宝安: baoan.md
-    - 其他: other.md
+  - 南山: nanshan.md
+  - 福田: futian.md
+  - 盐田: yantian.md
+  - 宝安: baoan.md
+  - 其他: other.md
 theme: 
   name: material
   language: zh
   features:
-    - navigation.tabs
+    # - navigation.tabs
     # - navigation.tabs.sticky
     - navigation.sections
+  plugins:
+  - glightbox
 
 markdown_extensions:
   - attr_list
@@ -25,3 +24,4 @@ markdown_extensions:
   - admonition
   - pymdownx.details
   - pymdownx.superfences
+
