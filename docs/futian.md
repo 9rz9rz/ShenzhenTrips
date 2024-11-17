@@ -7,7 +7,7 @@
 !!!warning
     辣度和味道同样正宗。能吃辣的同学不要习惯性点重辣。
 
-![市民中心夜景](images/市民中心夜景.jpg)
+![市民中心夜景](images/市民中心夜景.jpg){loading=lazy}
 ///caption
 福田市民中心夜景
 ///
@@ -28,8 +28,8 @@
 
 山下就是梅林水库。几步台阶到达水库边，天气晴朗的时候来吹吹风很不错。
 
-![alt text](images/梅林水库.jpg)
+![alt text](images/梅林水库.jpg){loading=lazy}
 
-![alt text](images/梅林水库1.jpg)
+![alt text](images/梅林水库1.jpg){loading=lazy}
 
 梅林山同样有郊野径。比较陡峭，请一定注意安全。上到大脑壳可以俯瞰城市。下山之后可以去“卓悦汇”或梅林用餐。

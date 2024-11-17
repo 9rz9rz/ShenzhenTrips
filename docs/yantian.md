@@ -47,7 +47,7 @@
 
 晚上的港口依旧繁忙。
 
-![盐田港夜景](images/盐田港夜景.jpg)
+![盐田港夜景](images/盐田港夜景.jpg){loading=lazy}
 
 !!! danger
     栈道下山全程无路灯，亲测不建议晚上独走。
@@ -56,7 +56,13 @@
 
 马峦山最大的特色就是沿登山道大大小小的瀑布。山上大华兴寺四面观音、茶溪谷、三洲田水库均值得游览。
 
+丰水期的马峦山瀑布更为壮观。遗憾的是作者是枯水期前往的。
+
+![alt text](images/马峦山1.jpg){:style="height:500px", loading=lazy}
+
+![alt text](images/马峦山2.jpg){:style="height:500px", loading=lazy}
+
 山上可以乘坐“山海专线”“祈福专线”公交直达盐田海鲜街附近。
 
 大华兴寺上四面观音像边，俯瞰。
-![三洲田水库](images/三洲田水库.jpg)
+![三洲田水库](images/三洲田水库.jpg){loading=lazy}

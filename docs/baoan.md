@@ -12,7 +12,7 @@
 
 两侧的风景实在不算很好，但人少安静的环境足以弥补这点。
 
-![alt text](images/铁岗水库道路.jpg)
+![alt text](images/铁岗水库道路.jpg){loading=lazy}
 
 ### 九围湿地公园
 
@@ -22,22 +22,22 @@
 
 约1km的郊野径并不陡峭，比较好走，每个岔路都有指示牌标记方向。
 
-![alt text](images/土路到九围湿地公园.jpg)
+![alt text](images/土路到九围湿地公园.jpg){loading=lazy}
 ///caption
 到湿地公园的土路
 ///
-![alt text](images/snaky_attack.jpg)
+![alt text](images/snaky_attack.jpg){loading=lazy}
 ///caption
 路上所见：蛇的枯枝
 ///
-![alt text](images/铁岗水库眺望.jpg)
+![alt text](images/铁岗水库眺望.jpg){loading=lazy}
 ///caption
 铁岗水库眺望
 ///
 
 公园内有亲水码头、汀步桥、草坪、栈道等多种休闲设施，有环湖跑道和步行道供行人锻炼。园内生态环境良好，鸟鸣随处可闻，游鱼岸边可见，野鸭、白鹭在湖面上觅食。湿地公园与远方的凤凰山一起，构成了一幅颇具立体感的画面。
 
-![alt text](images/九围湿地公园.jpg)
+![alt text](images/九围湿地公园.jpg){loading=lazy}
 ///caption
 九围湿地公园
 ///
@@ -49,7 +49,7 @@
 
 地铁站F口附近有夜市，也有一些生意很不错的餐馆。在附近游玩的话可以在此解决晚餐。
 
-![alt text](images/固戍夜市.jpg)
+![alt text](images/固戍夜市.jpg){loading=lazy}
 ///caption
 固戍夜市
 ///
@@ -65,11 +65,11 @@
   
 着重推荐地铁口附近一家正宗的宜宾燃面馆子。招牌和店面都很简朴，但味道棒。
 
-![alt text](images/燃面.jpg){:style="width:400px""}
+![alt text](images/燃面.jpg){:style="width:400px", loading=lazy}
 ///caption
 宜宾燃面
 ///
-![alt text](images/燃面招牌.jpg){:style="width:400px""}
+![alt text](images/燃面招牌.jpg){:style="width:400px", loading=lazy}
 ///caption
 店面招牌
 ///
@@ -107,6 +107,6 @@
 
 公园不大，可顺路前往。包括草坪和山。大约30min内可登顶。有台阶和柏油路两种登山选择。是散步的好去处。
 
-![尖岗山草坪](images/尖岗山草坪.jpg)
+![尖岗山草坪](images/尖岗山草坪.jpg){loading=lazy}
 
-![尖岗山](images/尖岗山.jpg)
+![尖岗山](images/尖岗山.jpg){loading=lazy}
