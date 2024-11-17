@@ -26,7 +26,10 @@
 ///caption
 到湿地公园的土路
 ///
-
+![alt text](images/snaky_attack.jpg)
+///caption
+路上所见：蛇的枯枝
+///
 ![alt text](images/铁岗水库眺望.jpg)
 ///caption
 铁岗水库眺望

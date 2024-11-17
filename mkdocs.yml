@@ -3,8 +3,8 @@ nav:
   - 欢迎访问: index.md
   - 南山: nanshan.md
   - 福田: futian.md
-  - 盐田: yantian.md
   - 宝安: baoan.md
+  - 盐田: yantian.md
   - 其他: other.md
 theme: 
   name: material
