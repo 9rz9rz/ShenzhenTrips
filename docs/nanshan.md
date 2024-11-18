@@ -84,7 +84,7 @@
 
 ![alt text](images/小刘炸豆腐.jpg){:style="width:400px", loading=lazy}
 ///caption
-小刘炸豆腐，配上泡菜特别好处、吃
+小刘炸豆腐，配上泡菜特别好吃
 ///
 
 ## 大沙河绿道
